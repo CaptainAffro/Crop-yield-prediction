@@ -40,7 +40,7 @@ Develop a supervised machine learning model to predict maize yield using annual 
 
 # 📥 **2. Data Collection**
 
-Data were obtained from international agricultural datasets and include:
+The primary dataset used in this notebook: Kaggle Crop Yield Prediction Dataset. https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset/data?select=yield_df.csvagricultural datasets, and include:
 
 * **Yield (target variable)**
 * **Average rainfall**
@@ -271,3 +271,4 @@ While the model generalizes well, its challenges predicting sudden structural sh
 📌 **Full presentation and narrative available here:**
 
 [https://sites.google.com/view/maizeyieldprediction/](https://sites.google.com/view/maizeyieldprediction/)
+
